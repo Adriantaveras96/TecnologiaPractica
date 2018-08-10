@@ -1,0 +1,39 @@
+form {
+		background-color:white;
+		text-align: justify;
+		align-items: center;
+
+		width: 75%;
+		margin-left: 07%;
+		margin-right:08%;
+		margin-bottom:02;
+		border: 08px solid;
+		border-color: gray;
+		padding-left: 05%;
+		padding-right:05%;
+
+
+}
+div{
+
+	
+}
+h1{
+		text-align:center;
+		background-color: gray
+	}
+h2{
+		text-align:center;
+		background-color: gray
+}
+
+h3{
+
+		text-align:center;
+		background-color: gray
+}
+
+div{ 	text-align:center;
+		background-color: gray
+
+}
